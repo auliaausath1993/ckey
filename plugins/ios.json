@@ -1,0 +1,64 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "org.devgeeks.Canvas2ImagePlugin": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "com-sarriaroman-photoviewer": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.tokomobile.ckeystore"
+    }
+  }
+}

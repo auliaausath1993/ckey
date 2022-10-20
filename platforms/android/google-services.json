@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "939892122878",
+    "firebase_url": "https://ckeyjeans-febba.firebaseio.com",
+    "project_id": "ckeyjeans-febba",
+    "storage_bucket": "ckeyjeans-febba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939892122878:android:94dc3648913d46a4",
+        "android_client_info": {
+          "package_name": "com.tokomobile.ckeystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939892122878-9dodomso19cmk10jobis2ncah11v8u1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbhoZXvHYPe9-GprMo8mZFcbEIIGZrTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
